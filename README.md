@@ -6,8 +6,8 @@
 
 ## Project parts details
 
-- Part 1. Create your own project for Spark Streaming: read adult.csv file, using kafka producer data, consumer data and save on HBase
-
+- Part 1. Create your own project for Spark Streaming: read adult.csv file, kafka -> spark streaming -> hbase
+  
 - Part 2. Integrate HBase and/or Hive with Part 1: using HBase
   
 - Part 3. Create a simple demo project for any of the following tools: using Kafka
