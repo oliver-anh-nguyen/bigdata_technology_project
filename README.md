@@ -6,13 +6,13 @@
 
 ## Project parts details
 
-- Part 1. Create your own project for Spark Streaming
+- Part 1. Create your own project for Spark Streaming: read adult.csv file, using kafka producer data, consumer data and save on HBase
 
-- Part 2. Integrate HBase and/or Hive with Part 1
+- Part 2. Integrate HBase and/or Hive with Part 1: using HBase
   
-- Part 3. Create a simple demo project for any of the following tools: Presto, Impala, Phoenix, Storm, Kafka
+- Part 3. Create a simple demo project for any of the following tools: using Kafka
   
-- Part 4. Record a demo of your Presentation of all the above 3 parts. Be professional!
+- Part 4. Record a demo of your Presentation of all the above 3 parts. Be professional! : using MS Stream on Teams
 
 ## Shell script files 
 
