@@ -41,7 +41,12 @@ scan 'adult'
 ```
 
 ## Input files 
+It's already on Project. Can check it here:
 
-## Screenshot and step by step
+https://github.com/oliver-anh-nguyen/bigdata_technology_project/blob/main/BDTProject/src/main/resources/adult.csv
+
+## Installation and screenshots
+
+https://github.com/oliver-anh-nguyen/bigdata_technology_project/blob/main/Tutorial_Project.docx
 
 ## Demo link
