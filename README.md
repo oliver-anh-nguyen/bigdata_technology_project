@@ -1,7 +1,7 @@
 ## Group 20
 
 - Tuan Anh Nguyen (614636)
-- Alagie Nget (614251) 
+- Alagie F Nget (614251) 
 - Biniam Abrha Nigusse (614623)
 
 ## Project parts details
