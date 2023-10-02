@@ -54,3 +54,5 @@ https://github.com/oliver-anh-nguyen/bigdata_technology_project/blob/main/BDTPro
 https://github.com/oliver-anh-nguyen/bigdata_technology_project/blob/main/Tutorial_Project.docx
 
 ## Demo link
+
+https://mum0-my.sharepoint.com/:v:/g/personal/tuan_nguyen_miu_edu/EV4lZfcrw2lDm7snGR0hk9QB1psxbuZjRd5C3pUzOETLww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=wUWNqT
